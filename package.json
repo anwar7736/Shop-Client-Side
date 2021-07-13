@@ -1,0 +1,29 @@
+{
+  "name": "client-side",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "cogo-toast": "^4.2.3",
+    "jspdf": "^2.3.1",
+    "jspdf-autotable": "^3.5.15",
+    "next": "10.2.0",
+    "nextjs-progressbar": "0.0.9",
+    "react": "16.8.0",
+    "react-bootstrap": "^1.6.0",
+    "react-data-table-component": "^6.11.7",
+    "react-dom": "16.8.0",
+    "react-html-table-to-excel": "^2.0.0",
+    "react-router-dom": "^5.2.0",
+    "react-slick": "^0.28.1",
+    "recharts": "^2.0.9",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.3.0"
+  }
+}
