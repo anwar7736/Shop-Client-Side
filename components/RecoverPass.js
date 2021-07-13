@@ -77,11 +77,8 @@ recoverPassword=(e)=>{
  				<Row>
  					<Col lg={5} md={{span:4, offset:4}} sm={12}>
  						<Form onSubmit={this.recoverPassword}>
-<<<<<<< HEAD
  						<h2 className="text-center text-danger">Password Recover</h2>
-=======
  								<h2 className="text-center text-danger">Password Recover</h2>
->>>>>>> c0131935539899118889895929b84eb7b82133c9
 						  <Form.Group controlId="formBasicEmail">
 						    <Form.Label>Enter Email</Form.Label>
 						    <Form.Control onChange={(e)=>{this.setState({email:e.target.value})}} type="text" placeholder="Enter email" />

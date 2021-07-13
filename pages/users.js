@@ -18,7 +18,6 @@ class Users extends React.Component{
         {
              Router.push('/');
         }
-<<<<<<< HEAD
          Axios.get('https://api.coderanwar.com/api/SelectUser')
          .then(response=>{
              this.setState({dataTable : response.data});
@@ -26,9 +25,7 @@ class Users extends React.Component{
          .catch(error=>{
 
          })
-=======
          
->>>>>>> c0131935539899118889895929b84eb7b82133c9
      }
     render(){
  	return(
