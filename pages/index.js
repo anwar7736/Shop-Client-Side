@@ -1,7 +1,7 @@
 import React, {Component, Fragment} from 'react';
 import NavBar from '../components/desktop';
 import DashboardList from '../components/dashboardlist';
-import Footer from '../components/Footer';
+import Footer from '../components/footer';
 import Head from 'next/head';
 import Axios from 'axios';
 import Router , {useRouter}  from 'next/router';
