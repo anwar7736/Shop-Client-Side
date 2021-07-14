@@ -1,7 +1,7 @@
 import React, {Component, Fragment} from 'react';
 import NavBar from '../components/desktop';
 import PrdouctList from '../components/productlist';
-import Footer from '../components/Footer';
+import Footer from '../components/footer';
 import Head from 'next/head';
 import Router , {useRouter}  from 'next/router';
 class Products extends React.Component{
