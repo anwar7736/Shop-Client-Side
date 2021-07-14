@@ -1,13 +1,4 @@
 import '../styles/globals.css'
-import '../styles/button.css'
-import '../styles/card.css'
-import '../styles/dashboard.css'
-import '../styles/form.css'
-import '../styles/images.css'
-import '../styles/modal.css'
-import '../styles/navMenu.css'
-import '../styles/table.css'
-import '../styles/transaction.css'
 import '../styles/animate.min.css'
 import '../styles/fontawesome.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
